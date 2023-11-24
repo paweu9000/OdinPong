@@ -8,7 +8,7 @@ This repository contains a simple implementation of the classic Pong game using 
 
 ## Features
 
-- Two-player Pong game.
+- Player vs simple AI Pong game.
 - Player 1 controls: W (Up), S (Down).
 
 ## Getting Started
